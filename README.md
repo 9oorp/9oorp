@@ -344,7 +344,7 @@ API 명세서 예시
 </td>
 <td width="100" align="center">
 <a href="https://github.com/wlstnam">
-<img src="https://github.com/9oorp/backend/assets/127458907/49daf396-367c-48fe-99a2-b6a0236dfd87" width="60" height="60">
+<img src="https://avatars.githubusercontent.com/u/127458907?v=4" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
