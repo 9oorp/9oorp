@@ -25,6 +25,7 @@
 
 <details>
 <summary> FRONTEND </summary>
+ 
  ```sh
     📦frontend
      ┣ 📂public
@@ -110,6 +111,7 @@
 
 <details>
 <summary> BACKEND </summary>
+ 
  ```sh
     📦backend
      ┣ 📂build
@@ -301,7 +303,7 @@ gitbook을 사용해서 API 명세서를 작성했습니다.
 [api 명세서](https://9oorp.gitbook.io/ver1/)
 
 API 명세서 예시
-<div align="center"><img src="https://github.com/hstla/goorm-project/assets/83001865/0e6ef6d2-577d-409e-978d-1e15f8882bf4"></div>
+<div align="center"><img src="https://github.com/hstla/goorm-project/assets/83001865/0e6ef6d2-577d-409e-978d-1e15f8882bf4" width="500"></div>
 
 
  ### ERD
