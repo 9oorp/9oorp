@@ -10,7 +10,7 @@
 
 
 ## 시스템 아키텍처
-<div align="center"><img src="https://github.com/hstla/goorm-project/assets/83001865/9db43c34-017b-431e-9313-241d86e7c228"></div>
+<div align="center"><img src="https://github.com/9oorp/frontend/assets/61531483/8cafee3d-29b6-406e-a8ea-704364b054b5"></div>
 
 
 
