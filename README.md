@@ -292,7 +292,7 @@
 
 Github-flow 브랜치 전략를 사용해서 협업하고 git Projects를 사용해서 1주단위로 스프린트를 관리했습니다.
 
-<div align="center"><img src="https://github.com/hstla/goorm-project/assets/83001865/b230d24c-ad37-4e1c-90d9-0e9dc6791fa3"></div>
+<div align="center"><img src="https://github.com/9oorp/frontend/assets/61531483/fe557d61-241a-4497-924b-4a9379f99c74"></div>
 
 
 ### API 명세서
